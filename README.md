@@ -1,6 +1,7 @@
 # new-year
 
 > A Vue.js project
+>> 24K纯手工，自己封装了文件上传的组件，后台使用tp3.2写的，初来乍到，有不足的地方希望多多包涵
 
 ## Build Setup
 
